@@ -22,7 +22,7 @@ function intro() {
                         I design and develop web applications and projects of all sizes. I am especially proficient in Backend Development in Python. I am experienced in Python,Django Rest, FastAPI, Odoo and React.
                     </p>
                     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
-                    <button class="btn"><i class="fa fa-download"><a className='btn-a-cv' blank='_blank' href={CV} download> Download CV</a></i></button>
+                    <button className="btn"><i className="fa fa-download"><a className='btn-a-cv' blank='_blank' href={CV} download> Download CV</a></i></button>
                 </div>
             </div>
             <div className="i-right">
